@@ -64,10 +64,10 @@
         <div id="abcd">
             <img id="img1" src="images/bank_image.png" />
             <a href="#"> <span style="color : white;font-style: bolder;margin-top: 2px;"> Banking System </span></a>
-            <a href="../../sparks foundation/Banking System/index.html" class="underline"> Home </a>
+            <a href="../../sparks foundation/Basic-Banking-System/index.html" class="underline"> Home </a>
             <a href="#" class="underline"> View All Customers </a>
             <a href="transaction_history.php" class="underline"> Transaction history </a>
-            <a href="../../sparks foundation/Banking System/make_transaction.html" class="underline"> Make Transaction </a>
+            <a href="../../sparks foundation/Basic-Banking-System/make_transaction.html" class="underline"> Make Transaction </a>
             <a href="contact.html" class="underline"> Contact Us </a>
         </div>
 
