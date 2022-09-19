@@ -175,5 +175,5 @@ iframe {
 
 
 .some_card:hover{
-    transform: scale(1.00000001);
+    transform: scale(1.1);
 }
