@@ -62,7 +62,7 @@
 <body>
     <div id="main">
         <div id="abcd">
-            <img id="img1" src="bank_image.png" />
+            <img id="img1" src="images/bank_image.png" />
             <a href="#"> <span style="color : white;font-style: bolder;margin-top: 2px;"> Banking System </span></a>
             <a href="../../sparks foundation/Banking System/index.html" class="underline"> Home </a>
             <a href="#" class="underline"> View All Customers </a>
