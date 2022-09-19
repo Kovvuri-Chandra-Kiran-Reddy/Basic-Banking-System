@@ -30,7 +30,7 @@
 
 <body>
     <section id="abcd">
-        <img id="img1" src="bank_image.png" />
+        <img id="img1" src="images/bank_image.png" />
         <a href="#"> <span style="color : white;font-style: bolder;margin-top: 2px;"> Banking System </span></a>
         <a href="index.html" class="underline"> Home </a>
         <a href="view_all_customers.php" class="underline"> View All Customers </a>
@@ -55,7 +55,7 @@
         $amount = $row['amount'];
         echo '<div id="outer_div">
         <div style="width: 35%;height:350px;text-align: center;margin-top: 90px;margin-left: 80px;" >
-          <img  src="profile.png" alt="profile image" height="70%" >
+          <img  src="images/profile.png" alt="profile image" height="70%" >
         </div>
         <div id="data">
               <pre> Name          :      ' . "$name" . ' </pre>
